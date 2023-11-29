@@ -28,7 +28,7 @@ const Form = () => {
   };
   return (
     <div className="bg-formImg bg-cover bg-center h-2/3 m-6 w-[50vw] ml-40 p-6 mt-11 rounded-xl shadow-xl shadow-purple-950  hover:shadow-orange-300 flex ">
-      <h1 className="text-purple-600 font-mono mb-10 text-5xl">
+      <h1 className="text-purple-600 font-mono mb-10 text-5xl h-16">
         Chad's biodata
       </h1>
       <form className="flex flex-col items-center justify-center mt-16">
