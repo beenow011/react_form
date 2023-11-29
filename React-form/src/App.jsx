@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="flex bg-backGroundImg h-[100vh] w-[100vw] bg-cover">
       <Form />
-      {/* <Display /> */}
     </div>
   );
 }

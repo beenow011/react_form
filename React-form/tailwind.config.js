@@ -9,6 +9,7 @@ export default {
       backgroundImage: {
         'backGroundImg' : "url(/src/assets/bg.jpg)",
         'formImg' : "url(/src/assets/formBG.jpg)",
+        'displayImg' : "url(/src/assets/terminal.jpg)"
       }
       
     },
