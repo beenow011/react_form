@@ -1,15 +1,15 @@
 import React from "react";
-
+import { githubLOGO } from "../assets";
 const Github = () => {
   return (
     <div className="">
       <a href="https://github.com/beenow011/react_form">
         <img
-          src="../src/assets/github2.png"
+          src={githubLOGO}
           alt=""
-          width={200}
-          height={300}
-          className="rounded-full absolute right-[30%] shadow-2xl shadow-black hover:shadow-purple-950 bg-blue-800 w-24 h-24"
+          width={150}
+          height={250}
+          className="rounded-full absolute md:right-[50%] right-0 top-0 md:top-36 shadow-xl shadow-black hover:shadow-purple-950 bg-black w-24 p-3 h-24"
         />
       </a>
     </div>
